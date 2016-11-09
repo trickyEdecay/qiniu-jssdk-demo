@@ -34,7 +34,7 @@
     }
     
     $(function(){
-        var domain = "http://img.trickyedecay.me"; //bucket绑定的域名
+        var domain = "http://..."; //bucket绑定的域名
         
         var uploader = Qiniu.uploader({
             runtimes: 'html5,flash,html4',      // 上传模式,依次退化
